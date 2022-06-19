@@ -22,9 +22,10 @@ img{
 }
 
 .margin{
-    margin-left: 30px;
-    margin-right: 30px;
+    width: 900px;
+    margin-left: 15px;
     text-align:center;
+
 }
 
 .container{
@@ -40,7 +41,6 @@ img{
     background-color: lightgray;
     margin-right: 30px; */
     background-color: black;
-    border-radius: 10px;
     ;
 }
 
@@ -49,6 +49,10 @@ img{
     height: 100px;
     width: 100px;
     margin-right: 20px;
+}
+
+a{
+    color: blue;
 }
 
 

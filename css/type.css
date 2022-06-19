@@ -78,7 +78,6 @@ section{
 .card-title{
     font-size: 18px;
     font-weight: 700;
-    margin-bottom:8px;
     color: white;
     padding: 15px;
 }
@@ -88,3 +87,13 @@ section{
     font-weight: 400;
     color: white;
 }
+
+.card-email{
+    font-size: 12px;
+    font-weight: 400;
+    color: white;
+    padding-bottom: 10px;
+    padding-top: 5px;
+}
+
+
